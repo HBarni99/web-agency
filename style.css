@@ -1,0 +1,22 @@
+body{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+}
+.logo{
+    float:left;
+    
+}
+.fejlec-szoveg{
+    margin-left: 50px;
+    margin-top: 40px;
+    font-family: 'Space Grotesk', sans-serif;
+    display:inline-block;
+}
+.main{
+    flex: 1;
+}
+span{
+    color:crimson;
+}
